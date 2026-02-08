@@ -316,3 +316,5 @@ npm run build
 如果觉得项目有用，别忘了点个 ⭐ Star 支持！
 
 </div>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Shybert-AI/MuMuAINovel-sqlite&type=Date)](https://star-history.com/#Shybert-AI/MuMuAINovel-sqlite&Date)
